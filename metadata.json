@@ -1,0 +1,6 @@
+{
+  "name": "EduVerse",
+  "description": "Interactive learning platform with real-time engagement analytics, on-demand video lessons, and a teacher publishing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
